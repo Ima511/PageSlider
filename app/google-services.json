@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5442492722",
+    "project_id": "pageslider-99fc8",
+    "storage_bucket": "pageslider-99fc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5442492722:android:c346c94458a1bb5808df2b",
+        "android_client_info": {
+          "package_name": "com.example.pageslider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5442492722-047ouc4blaec5ra6rf42j2q96gckbmig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBotoJp4BfCoTGEK5NEpRdW_uDQ9LKtuZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5442492722-047ouc4blaec5ra6rf42j2q96gckbmig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
